@@ -11,7 +11,7 @@
 
 	<artifactId>slick2d-util</artifactId>
 
-	<name>slick2d-util</name>
+	<name>Slick2D Utilities</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
