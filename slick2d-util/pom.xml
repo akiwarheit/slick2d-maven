@@ -35,13 +35,9 @@
 			<scope>system</scope>
 			<systemPath>${java.home}/lib/javaws.jar</systemPath>
 		</dependency>
-		<dependency>
-			<groupId>ibxm</groupId>
-			<artifactId>micromod</artifactId>
-			<version>1.0.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/ibxm.jar</systemPath>
-		</dependency>
+		<!-- <dependency> <groupId>ibxm</groupId> <artifactId>micromod</artifactId> 
+			<version>1.0.0</version> <scope>system</scope> <systemPath>${project.basedir}/lib/ibxm.jar</systemPath> 
+			</dependency> -->
 		<dependency>
 			<groupId>org.jcraft</groupId>
 			<artifactId>jorbis</artifactId>
